@@ -8,3 +8,4 @@ Home
    emulation
    minishell
    3ds_homebrew
+   robo_segue_linha
