@@ -7,3 +7,4 @@ Home
    mini_rt
    emulation
    minishell
+   3ds_homebrew
