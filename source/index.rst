@@ -6,3 +6,4 @@ Home
    elementos_basicos
    mini_rt
    emulation
+   minishell
